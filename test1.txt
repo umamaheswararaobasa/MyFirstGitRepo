@@ -1,0 +1,13 @@
+ Volume in drive C is Windows8_OS
+ Volume Serial Number is 488E-9B5A
+
+ Directory of C:\My_Git_Project
+
+09/30/2018  10:59 AM    <DIR>          .
+09/30/2018  10:59 AM    <DIR>          ..
+09/30/2018  10:59 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  329,584,660,480 bytes free
+
+
+Hai
